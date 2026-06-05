@@ -1,5 +1,8 @@
 # Gourmet Kitchen | Exquisite Hot Meals
 
+> [!NOTE]
+> This repository is a high-fidelity frontend mockup created for a competition that will be held on **15 June**.
+
 A high-performance, responsive, and frontend-only **Hot Meal Food Ordering System** designed with premium modern aesthetics, rich micro-animations, and a highly interactive user experience.
 
 ---
